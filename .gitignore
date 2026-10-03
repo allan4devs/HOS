@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.venv/
+__pycache__/
+*.py[cod]
+.env*
+.vercel/
+*.sqlite3
+artifacts/
+*.tsbuildinfo
+
+.vercel
